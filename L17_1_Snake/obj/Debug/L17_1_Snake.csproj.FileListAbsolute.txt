@@ -1,0 +1,19 @@
+C:\DOKUMENT\_UCZELNIA\_Helion_kurs\Konspekt\_moje_materialy\Kody źródłowe\L17_1_Snake\L17_1_Snake\bin\Debug\L17_1_Snake.exe.config
+C:\DOKUMENT\_UCZELNIA\_Helion_kurs\Konspekt\_moje_materialy\Kody źródłowe\L17_1_Snake\L17_1_Snake\bin\Debug\L17_1_Snake.exe
+C:\DOKUMENT\_UCZELNIA\_Helion_kurs\Konspekt\_moje_materialy\Kody źródłowe\L17_1_Snake\L17_1_Snake\bin\Debug\L17_1_Snake.pdb
+C:\DOKUMENT\_UCZELNIA\_Helion_kurs\Konspekt\_moje_materialy\Kody źródłowe\L17_1_Snake\L17_1_Snake\obj\Debug\L17_1_Snake.csprojResolveAssemblyReference.cache
+C:\DOKUMENT\_UCZELNIA\_Helion_kurs\Konspekt\_moje_materialy\Kody źródłowe\L17_1_Snake\L17_1_Snake\obj\Debug\L17_1_Snake.exe
+C:\DOKUMENT\_UCZELNIA\_Helion_kurs\Konspekt\_moje_materialy\Kody źródłowe\L17_1_Snake\L17_1_Snake\obj\Debug\L17_1_Snake.pdb
+C:\DOKUMENT\_UCZELNIA\_Helion_kurs\Konspekt\_moje_materialy\Kody_źródłowe_rozdziały_12_18\L17_1_Snake\L17_1_Snake\bin\Debug\L17_1_Snake.exe.config
+C:\DOKUMENT\_UCZELNIA\_Helion_kurs\Konspekt\_moje_materialy\Kody_źródłowe_rozdziały_12_18\L17_1_Snake\L17_1_Snake\obj\Debug\L17_1_Snake.pdb
+C:\DOKUMENT\_UCZELNIA\_Helion_kurs\Konspekt\_moje_materialy\Kody_źródłowe_rozdziały_12_18\L17_1_Snake\L17_1_Snake\bin\Debug\L17_1_Snake.exe
+C:\DOKUMENT\_UCZELNIA\_Helion_kurs\Konspekt\_moje_materialy\Kody_źródłowe_rozdziały_12_18\L17_1_Snake\L17_1_Snake\bin\Debug\L17_1_Snake.pdb
+C:\DOKUMENT\_UCZELNIA\_Helion_kurs\Konspekt\_moje_materialy\Kody_źródłowe_rozdziały_12_18\L17_1_Snake\L17_1_Snake\obj\Debug\L17_1_Snake.csprojResolveAssemblyReference.cache
+C:\DOKUMENT\_UCZELNIA\_Helion_kurs\Konspekt\_moje_materialy\Kody_źródłowe_rozdziały_12_18\L17_1_Snake\L17_1_Snake\obj\Debug\L17_1_Snake.exe
+D:\Documents\Programming\During\Język C#. Kurs video. Poziom pierwszy. Programowanie dla początkujących\Materiały_dodatkowe\Kody_źródłowe_rozdziały_12_18\L17_1_Snake\L17_1_Snake\bin\Debug\L17_1_Snake.exe.config
+D:\Documents\Programming\During\Język C#. Kurs video. Poziom pierwszy. Programowanie dla początkujących\Materiały_dodatkowe\Kody_źródłowe_rozdziały_12_18\L17_1_Snake\L17_1_Snake\bin\Debug\L17_1_Snake.exe
+D:\Documents\Programming\During\Język C#. Kurs video. Poziom pierwszy. Programowanie dla początkujących\Materiały_dodatkowe\Kody_źródłowe_rozdziały_12_18\L17_1_Snake\L17_1_Snake\bin\Debug\L17_1_Snake.pdb
+D:\Documents\Programming\During\Język C#. Kurs video. Poziom pierwszy. Programowanie dla początkujących\Materiały_dodatkowe\Kody_źródłowe_rozdziały_12_18\L17_1_Snake\L17_1_Snake\obj\Debug\L17_1_Snake.csprojAssemblyReference.cache
+D:\Documents\Programming\During\Język C#. Kurs video. Poziom pierwszy. Programowanie dla początkujących\Materiały_dodatkowe\Kody_źródłowe_rozdziały_12_18\L17_1_Snake\L17_1_Snake\obj\Debug\L17_1_Snake.csproj.CoreCompileInputs.cache
+D:\Documents\Programming\During\Język C#. Kurs video. Poziom pierwszy. Programowanie dla początkujących\Materiały_dodatkowe\Kody_źródłowe_rozdziały_12_18\L17_1_Snake\L17_1_Snake\obj\Debug\L17_1_Snake.exe
+D:\Documents\Programming\During\Język C#. Kurs video. Poziom pierwszy. Programowanie dla początkujących\Materiały_dodatkowe\Kody_źródłowe_rozdziały_12_18\L17_1_Snake\L17_1_Snake\obj\Debug\L17_1_Snake.pdb
